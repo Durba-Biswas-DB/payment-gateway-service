@@ -46,10 +46,10 @@
             <scope>runtime</scope>
         </dependency>
 
-        <!-- MySQL (for later prod-like use) -->
+        <!-- PostgreSQL (for later prod-like use) -->
         <dependency>
-            <groupId>com.mysql</groupId>
-            <artifactId>mysql-connector-j</artifactId>
+            <groupId>org.postgresql</groupId>
+            <artifactId>postgresql</artifactId>
             <scope>runtime</scope>
         </dependency>
 
