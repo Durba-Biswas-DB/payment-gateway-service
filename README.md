@@ -1,6 +1,13 @@
 # Payment Gateway Service
 
-Standalone backend payment gateway built with Java + Spring Boot.
+Backend payment gateway built with Java + Spring Boot.
+
+![CI](https://github.com/Durba-Biswas-DB/payment-gateway-service/actions/workflows/ci.yml/badge.svg)
+![Java](https://img.shields.io/badge/Java-17-blue)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.2-brightgreen)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue)
+![Deployed on Render](https://img.shields.io/badge/Deploy-Render-46E3B7)
+
 
 ## Live Links
 - API Base URL: https://payment-gateway-service-uedm.onrender.com
